@@ -54,3 +54,10 @@ body {
     color: hsl(117, 100%, 78%);
     cursor: pointer;
 }
+section{
+    text-align: center;
+    color: green;
+}
+.projects{
+    margin-top: 10%;
+}
