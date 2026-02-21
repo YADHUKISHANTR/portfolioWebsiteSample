@@ -24,7 +24,7 @@ window.onload = function () {
     context = board.getContext("2d");
 
     spritesheetimg = new Image();
-    spritesheetimg.src = "Assets/WalkingSpriteSheet.jpg";
+    spritesheetimg.src = "assets/WalkingSpriteSheet.jpg";
 
     spritesheetimg.onload = function () {
         requestAnimationFrame(update);
